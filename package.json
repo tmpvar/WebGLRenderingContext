@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/tmpvar/WebGLRenderingContext/issues"
   },
-  "homepage": "https://github.com/tmpvar/WebGLRenderingContext"
+  "homepage": "https://github.com/tmpvar/WebGLRenderingContext",
+  "dependencies": {
+    "gles2": "git://github.com/tmpvar/node-gles2"
+  }
 }
